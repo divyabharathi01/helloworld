@@ -8,4 +8,5 @@ type Person struct {
 	weight      string
 	address     string
 	phonenumber string
+	education   string
 }
