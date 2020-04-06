@@ -1,7 +1,7 @@
 package supply
 
 //Person ...
-type Person struct{
+type Person struct {
 	Name string
-
+	Age  int
 }
