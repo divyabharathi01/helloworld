@@ -5,4 +5,5 @@ type Person struct {
 	Name   string
 	Age    int
 	height string
+	weight string
 }
